@@ -1,0 +1,19 @@
+fastapi
+uvicorn
+streamlit
+python-multipart
+requests
+pdfplumber
+python-docx
+beautifulsoup4
+langchain
+langchain-community
+langchain-openai
+googlesearch-python
+spacy
+# HF API dependencies (lightweight)
+huggingface_hub
+# Additional utilities
+numpy
+scikit-learn
+python-dotenv
