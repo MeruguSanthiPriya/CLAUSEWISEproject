@@ -2,7 +2,6 @@
 
 A comprehensive, hackathon-ready legal document analysis platform using Hugging Face models and IBM Granite integration.
 
-## 🎯 **Hackathon-Ready Features**
 
 ### ✅ **1. Clause Simplification**
 - **Automatic Rewriting**: Complex legal clauses → Simple, layman-friendly language
@@ -98,7 +97,7 @@ A comprehensive, hackathon-ready legal document analysis platform using Hugging 
 - **Clean Code**: No clutter, production-ready
 - **Token Security**: Private .env file
 
-## 🎉 **Hackathon Ready!**
+
 
 Your project includes all required features:
 - ✅ **Clause Simplification** - Automatic rewriting
@@ -107,5 +106,3 @@ Your project includes all required features:
 - ✅ **Document Classification** - Accurate categorization
 - ✅ **Multi-Format Support** - PDF, DOCX, TXT
 - ✅ **Beautiful UI** - Clean, formatted responses
-
-**Ready to impress at your hackathon!** 🚀 
